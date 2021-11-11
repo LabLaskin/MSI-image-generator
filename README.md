@@ -1,4 +1,4 @@
-# RAW-MSI-generator
+# MSI-image-generator
 It is a mass spectrometry imaging (MSI) data processing pipeline to generate ion images from Thermo .raw and Agilent .d files. It is designed for line-by-line data acquisition manner (DESI/nanoDESI/...) exclusively.
 
 This pipeline extracts ion images from raw files. MS API reads raw files for twice. It firstly checks the dimensionality of the MSI data sets, second it extracts peak intensities with a mass list and a mass window. During the second step, it also aligns line scans by interpolation with respect to spectrum timestamp. Finally, the aligned intensities are organized into a stack of ion images. The first entry in the stack is TIC.
