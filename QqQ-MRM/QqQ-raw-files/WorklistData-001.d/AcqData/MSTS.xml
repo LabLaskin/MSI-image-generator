@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TimeSegments>
+    <Version>3</Version>
+    <TimeSegment TimeSegmentID="1">
+        <!--start time in minutes-->
+        <StartTime>0</StartTime>
+        <!--end time in minutes-->
+        <EndTime>2.4836</EndTime>
+        <NumOfScans>1379</NumOfScans>
+        <!--0=no, 1=yes-->
+        <FixedCycleLength>0</FixedCycleLength>
+    </TimeSegment>
+</TimeSegments>

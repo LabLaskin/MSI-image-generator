@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActualsDef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ActualsDef.xsd">
+  <Version>1</Version>
+  <Actuals Type="0">
+    <Actual ActualID="1">
+      <DisplayName>Rough Vac</DisplayName>
+      <DataType>6</DataType>
+      <DisplayFormat>1</DisplayFormat>
+      <DisplayEffects>0</DisplayEffects>
+      <DisplayDigits>2</DisplayDigits>
+      <Unit>Torr</Unit>
+      <Category>General</Category>
+    </Actual>
+    <Actual ActualID="2">
+      <DisplayName>High Vac</DisplayName>
+      <DataType>6</DataType>
+      <DisplayFormat>1</DisplayFormat>
+      <DisplayEffects>0</DisplayEffects>
+      <DisplayDigits>2</DisplayDigits>
+      <Unit>Torr</Unit>
+      <Category>General</Category>
+    </Actual>
+    <Actual ActualID="3">
+      <DisplayName>Turbo Speed</DisplayName>
+      <DataType>6</DataType>
+      <DisplayFormat>0</DisplayFormat>
+      <DisplayEffects>0</DisplayEffects>
+      <DisplayDigits>1</DisplayDigits>
+      <Unit>%</Unit>
+      <Category>General</Category>
+    </Actual>
+    <Actual ActualID="4">
+      <DisplayName>Pump1 Current</DisplayName>
+      <DataType>6</DataType>
+      <DisplayFormat>0</DisplayFormat>
+      <DisplayEffects>0</DisplayEffects>
+      <DisplayDigits>3</DisplayDigits>
+      <Unit>A</Unit>
+      <Category>General</Category>
+    </Actual>
+    <Actual ActualID="7">
+      <DisplayName>MS1 Heater</DisplayName>
+      <DataType>6</DataType>
+      <DisplayFormat>0</DisplayFormat>
+      <DisplayEffects>0</DisplayEffects>
+      <DisplayDigits>0</DisplayDigits>
+      <Unit>°C</Unit>
+      <Category>MS1</Category>
+    </Actual>
+    <Actual ActualID="8">
+      <DisplayName>MS2 Heater</DisplayName>
+      <DataType>6</DataType>
+      <DisplayFormat>0</DisplayFormat>
+      <DisplayEffects>0</DisplayEffects>
+      <DisplayDigits>0</DisplayDigits>
+      <Unit>°C</Unit>
+      <Category>MS2</Category>
+    </Actual>
+    <Actual ActualID="9">
+      <DisplayName>Gas Temperature</DisplayName>
+      <DataType>6</DataType>
+      <DisplayFormat>0</DisplayFormat>
+      <DisplayEffects>0</DisplayEffects>
+      <DisplayDigits>2</DisplayDigits>
+      <Unit>°C</Unit>
+      <Category>General</Category>
+    </Actual>
+    <Actual ActualID="10">
+      <DisplayName>Gas Flow</DisplayName>
+      <DataType>6</DataType>
+      <DisplayFormat>0</DisplayFormat>
+      <DisplayEffects>0</DisplayEffects>
+      <DisplayDigits>1</DisplayDigits>
+      <Unit>l/min</Unit>
+      <Category>Ion Source</Category>
+    </Actual>
+    <Actual ActualID="11">
+      <DisplayName>Nebulizer</DisplayName>
+      <DataType>6</DataType>
+      <DisplayFormat>0</DisplayFormat>
+      <DisplayEffects>0</DisplayEffects>
+      <DisplayDigits>1</DisplayDigits>
+      <Unit>psi</Unit>
+      <Category>Ion Source</Category>
+    </Actual>
+    <Actual ActualID="12">
+      <DisplayName>Capillary Voltage</DisplayName>
+      <DataType>6</DataType>
+      <DisplayFormat>0</DisplayFormat>
+      <DisplayEffects>0</DisplayEffects>
+      <DisplayDigits>0</DisplayDigits>
+      <Unit>V</Unit>
+      <Category>Ion Source</Category>
+    </Actual>
+    <Actual ActualID="13">
+      <DisplayName>Chamber Current</DisplayName>
+      <DataType>6</DataType>
+      <DisplayFormat>0</DisplayFormat>
+      <DisplayEffects>0</DisplayEffects>
+      <DisplayDigits>2</DisplayDigits>
+      <Unit>µA</Unit>
+      <Category>Ion Source</Category>
+    </Actual>
+    <Actual ActualID="14">
+      <DisplayName>Capillary Current</DisplayName>
+      <DataType>6</DataType>
+      <DisplayFormat>0</DisplayFormat>
+      <DisplayEffects>0</DisplayEffects>
+      <DisplayDigits>0</DisplayDigits>
+      <Unit>nA</Unit>
+      <Category>Ion Source</Category>
+    </Actual>
+  </Actuals>
+</ActualsDef>
