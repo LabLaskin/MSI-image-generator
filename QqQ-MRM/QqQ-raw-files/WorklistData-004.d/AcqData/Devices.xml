@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Devices>
+    <Version>1</Version>
+    <Device DeviceID="1">
+        <Name>TandemQuadrupole</Name>
+        <DriverVersion>2.4.467</DriverVersion>
+        <FirmwareVersion>8.1.36</FirmwareVersion>
+        <ModelNumber>Ultivo</ModelNumber>
+        <OrdinalNumber>1</OrdinalNumber>
+        <SerialNumber>SG2018Q101</SerialNumber>
+        <Type>5</Type>
+        <StoredDataType>8</StoredDataType>
+        <Delay>0</Delay>
+        <Vendor>1</Vendor>
+    </Device>
+</Devices>

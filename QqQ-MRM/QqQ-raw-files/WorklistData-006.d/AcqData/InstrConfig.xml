@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstrConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.0">
+  <instrDevice>
+    <VoyModuleList>
+      <VoyModule>
+        <DevID>MSQQQRC_1</DevID>
+        <DevName>MSQQQRC</DevName>
+        <DisplayName>QQQ</DisplayName>
+        <OrdinalNumber>1</OrdinalNumber>
+        <ModelNumber>QQQ</ModelNumber>
+        <DisplayModelNumber>Ultivo</DisplayModelNumber>
+        <SerialNumber>SG2018Q101</SerialNumber>
+        <FirmwareVersion>8.1.36</FirmwareVersion>
+        <ConfigXML>&lt;!-- edited with XMLSpy v2005 rel. 3 U (http://www.altova.com) by Juli Salcedo (Agilent Technologies) --&gt;
+&lt;MSConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MSConfig.xsd"&gt;
+  &lt;InstrumentName&gt;Instrument1&lt;/InstrumentName&gt;
+  &lt;DisplayName&gt;QQQ&lt;/DisplayName&gt;
+  &lt;SerialNumber&gt;SG2018Q101&lt;/SerialNumber&gt;
+  &lt;ModelNumber&gt;Ultivo&lt;/ModelNumber&gt;
+  &lt;ModuleType&gt;QQQ&lt;/ModuleType&gt;
+  &lt;ModuleDisplayName&gt;QQQ&lt;/ModuleDisplayName&gt;
+  &lt;ConnectionInfo&gt;
+    &lt;ConnectionType&gt;ConnectionType_IPAddress&lt;/ConnectionType&gt;
+    &lt;Hostname /&gt;
+    &lt;IPAddress&gt;192.168.254.12&lt;/IPAddress&gt;
+  &lt;/ConnectionInfo&gt;
+  &lt;FirmwareRevision&gt;8.1.36&lt;/FirmwareRevision&gt;
+  &lt;PolaritySwitchTime&gt;-1&lt;/PolaritySwitchTime&gt;
+&lt;/MSConfig&gt;</ConfigXML>
+        <ClusterDeviceID>0</ClusterDeviceID>
+        <isRCDevice>true</isRCDevice>
+        <ClusterParentID>AGILENT_QQQ_1</ClusterParentID>
+        <ParentCombinedContainerAutoConfig />
+        <ParentCombinedContainerDevID />
+      </VoyModule>
+    </VoyModuleList>
+  </instrDevice>
+  <instrumentInfo>
+    <DevConfigs>
+      <VoyInstrDevice>
+        <DevID>AGILENT_QQQ_1</DevID>
+        <DevName>AGILENT_QQQ</DevName>
+        <TypeID>444</TypeID>
+        <Configured>true</Configured>
+        <ConnectionInfo>192.168.254.12</ConnectionInfo>
+        <ConnectionMode>TCPIP</ConnectionMode>
+        <OrdinalNumber>1</OrdinalNumber>
+        <isClusterController>true</isClusterController>
+        <StreamId>1</StreamId>
+        <StreamName>LC 1</StreamName>
+        <isAPGConnected>false</isAPGConnected>
+        <IsDefaultStream>true</IsDefaultStream>
+      </VoyInstrDevice>
+    </DevConfigs>
+    <IsAPGSync>true</IsAPGSync>
+    <isVirtual>false</isVirtual>
+    <ConfiguredBy>ULTIVO0\admin</ConfiguredBy>
+    <ConfiguredTime>2022-11-01T09:41:28.7584684-07:00</ConfiguredTime>
+    <InstrName>Instrument 1</InstrName>
+    <InstrID>LCMS</InstrID>
+    <StreamSelectionValve />
+  </instrumentInfo>
+</InstrConfig>
